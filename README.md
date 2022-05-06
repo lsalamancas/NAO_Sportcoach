@@ -3,7 +3,7 @@ NAO from softbank robotics will help you achieve the goal of a good exercise rou
 
 Programs you'll need:
 
-- Reaper is a free Digital Audio Workstation (DAW), is used to module the bpm of the song through the session. Then you installed it (https://www.reaper.fm/download.php)
+- Reaper is a free Digital Audio Workstation (DAW), is used to module the tempo of the song through the session. Then you installed it (https://www.reaper.fm/download.php)
 you must acces to Preferences » Keyboard/Multitouch » Assign keyboard shortcuts to actions or change existing shorcuts » then you search for BPM, and finally you create new shorcuts in "Decrease current project tempo 01 BPM" and "Increase current project tempo 01 BPM".
 
 Note: In the current code are set "CTR + -" and "CTR + I" respectively. At the moment it is essential to have Reaper as the main window after you enter the participant's name and age.  
